@@ -40,6 +40,6 @@ The Spotify IDs saved to S3 trigger a lambda that inserts the songs into the spe
 - Add Soundcloud and Bandcamp integration. All of the Facebook music groups I am a member of are dominated by Youtube links however there are many gems often posted to other platforms. I’d like to see all content being collected and processed.
 
 
-
+Keep up with the project <a href="https://github.com/JackOHara/facebookgroupify" target="_blank">here</a>.
 
 Do you have a Facebook Group that you’d love to see in a Spotify playlist updated daily? If so get in touch and I’ll get it running.
