@@ -2,7 +2,6 @@
 layout: post
 title: Facebook Groupify
 ---
-fbgroupifyarchitecture.png 
 
 This is a side project I’ve been working on occasionally in my spare time. Facebook Groups are often a wonderful place for finding new music. There’s many niche genre/location specific music groups that are goldmines. I regularly go through the process of opening a music group on Facebook, scrolling through the page and clicking on posts that link to Youtube, Spotify, Soundcloud, Bandcamp and other streaming sites. I give the songs a listen and then if I like it I add it to my Spotify. It would be nice if I could just have all of these songs already in Spotify and just listen to them with no interruption of having to click on the next link.
 
